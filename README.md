@@ -1,7 +1,6 @@
 ### Hi there
 ##  this is my showcase-pro
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 Check out the live demo [here](https://fafa987.github.io/portfolio/).
 
@@ -17,10 +16,13 @@ Check out the live demo [here](https://fafa987.github.io/portfolio/).
 - **CSS3:** Flexbox, CSS Grid, and responsive media queries.
 - **JavaScript:** Interactive features such as project filtering and form validation.
 
-## Installation
+## My last website
 
-To run the project locally:
+To show my the project locally:
 [here](https://alfaexpo.co/).
+</br>
+</br>
+</br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
@@ -28,5 +30,6 @@ To run the project locally:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
