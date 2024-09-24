@@ -3,17 +3,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-Check out the live demo [here](https://your-portfolio-link.com).
+Check out the live demo [here](https://fafa987.github.io/portfolio/).
 
 ## Features
 
-- **Responsive Design:** Optimized for all devices – desktop, tablet, and mobile.
-- **Project Showcase:** Easily add projects with images, descriptions, and links.
-- **About Me Section:** Personal bio and highlights of skills and experience.
-- **Contact Form:** Built-in contact form connected to your email.
-- **Custom Animations:** Subtle animations to enhance user experience.
+- **Custom Web Development:** I design and develop custom websites tailored to your unique business needs.
+- **SEO Strategy and Implementation:** Boost your website's visibility in search engine results with my comprehensive SEO services.
+- **Wordpress Site Desing and Manegement:** Leverage the power of WordPress with my expert design and management services. 
 
-## Technologies
+## Skills
 
 - **HTML5:** Semantic HTML for easy navigation and SEO optimization.
 - **CSS3:** Flexbox, CSS Grid, and responsive media queries.
